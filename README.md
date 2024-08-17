@@ -3,7 +3,7 @@ A So_Vits_svc voice model of a well-known game developer company's founder.
 
 # How to get it and use it?
 Download latest model on [release page.](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases)  
-follow the tips on So_Vits_svc model to install.
+follow the tips on So_Vits_svc pages to install.
 
 ## 〢 Contributors
 Thank you to all the collaborators for their dedication to the project!
