@@ -4,6 +4,12 @@ A So_Vits_svc voice model of a well-known game developer company's founder.
 > [!NOTE]
 > The training data used for this model all comes from the public speeches of this person, and the language used is Chinese. If you use this model to generate audio in other languages, it may not achieve the desired effect.  
 
+> [!Warning]
+> ·Please strictly adhere to laws and regulations when using this model! When publishing derivative works.  
+> ·Please credit the original author team of this project and include a link.  
+> ·Any issues arising from the use of this model or derivative works are not related to the original author team of the project!  
+
+
 # How to get it and use it?
 Download latest model on [release page.](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases)  
 Follow the tips on So_Vits_svc pages to install.
