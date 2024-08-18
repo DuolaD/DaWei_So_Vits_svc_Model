@@ -1,6 +1,8 @@
 # DaWei_So_Vits_svc_Model
 A So_Vits_svc voice model of a well-known game developer company's founder.
 
+**EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
+
 > [!NOTE]
 > The training data used for this model all comes from the public speeches of this person, and the language used is Chinese. If you use this model to generate audio in other languages, it may not achieve the desired effect.  
 
@@ -13,6 +15,9 @@ A So_Vits_svc voice model of a well-known game developer company's founder.
 # How to get it and use it?
 Download latest model on [release page.](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases)  
 Follow the tips on So_Vits_svc pages to install.
+
+> [!NOTE]
+> If you need training source to training your model with another app,[Click here](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases/tag/Training_Source)  to download.
 
 ## 〢 Contant Me  
 
