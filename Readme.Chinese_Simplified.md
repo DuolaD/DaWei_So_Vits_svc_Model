@@ -1,6 +1,8 @@
 # DaWei_So_Vits_svc_Model
 某知名游戏开发公司创始人的So_Vits_svc语音模型。
 
+[EN](Readme.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)  
+
 > [!NOTE]
 > 该模型使用的训练数据全部来自于该人的公开演讲，使用的语言是中文，如果用该模型生成其他语言的音频，可能达不到预期的效果。  
 
@@ -13,6 +15,9 @@
 # 如何获取并使用这个模型？
 在[Release界面](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases)下载最新的模型。
 根据So_Vits_svc页面的提示进行安装。
+
+> [!NOTE]
+> 如果您需要训练源来使用其他应用程序训练您的模型，您可以在[此处](https://github.com/DuolaD/DaWei_So_Vits_svc_Model/releases/tag/Training_Source)下载。  
 
 ## 〢 联系我
 
